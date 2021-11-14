@@ -46,7 +46,7 @@ namespace ChallengesWithTestsMark8.Tests
             ChallengesSet01 challenger = new ChallengesSet01();
 
             // Act
-            double actual = challenger.Subtract(minuend, subtrahend);
+            double actual = challenger.subtract(minuend, subtrahend);
 
             // Assert
             Assert.Equal(Math.Round(expectedDifference, 2), Math.Round(actual, 2));
@@ -68,7 +68,7 @@ namespace ChallengesWithTestsMark8.Tests
             ChallengesSet01 challenger = new ChallengesSet01();
 
             // Act
-            int actual = challenger.Add(addend1, addend2);
+            int actual = challenger.add(addend1, addend2);
 
             // Assert
             Assert.Equal(expectedSum, actual);
@@ -114,7 +114,7 @@ namespace ChallengesWithTestsMark8.Tests
             ChallengesSet01 challenger = new ChallengesSet01();
 
             // Act
-            long actual = challenger.Multiply(factor1, factor2);
+            long actual = challenger.multiply(factor1, factor2);
 
             // Assert
             Assert.Equal(product, actual);
