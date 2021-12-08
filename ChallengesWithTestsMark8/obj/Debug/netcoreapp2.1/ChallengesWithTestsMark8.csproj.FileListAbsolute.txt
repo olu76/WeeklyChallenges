@@ -58,7 +58,6 @@ C:\Users\midas\Desktop\TestRepo\WeeklyChallengeExercise\WeeklyChallenges\Challen
 C:\Users\midas\Desktop\TestRepo\WeeklyChallengeExercise\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
 C:\Users\midas\Desktop\TestRepo\WeeklyChallengeExercise\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\midas\Desktop\TestRepo\WeeklyChallengeExercise\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
-C:\Users\midas\Desktop\TestRepo\WeeklyChallengeExercise\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csproj.AssemblyReference.cache
 C:\Users\midas\Desktop\TestRepo\WeeklyChallengeExercise\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\midas\Desktop\TestRepo\WeeklyChallengeExercise\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
 C:\Users\midas\Desktop\TestRepo\WeeklyChallengeExercise\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfo.cs
