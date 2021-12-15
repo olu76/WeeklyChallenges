@@ -8,8 +8,8 @@ namespace ChallengesWithTestsMark8
     {
         public bool ArrayContainsAFalse(bool[] vals)
         {
-            for (int i = 0; i < vals.Length; i++)
-            {
+            for (int i = 0; i < vals.Length;)
+            { 
                 if (vals[i] == false)
                 {
                     return true;
